@@ -6,7 +6,7 @@
     <artifactId>mobile-android-java-basic</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>apk</packaging>
-    <name>Codenvy Android Example</name>
+    <name>Codenvy Android Example Jancok</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
